@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Haogao Gu"
-description              : "Postdoc fellow at The University of Hong Kong. Focusing on virus evolution and virus / host interactions."
-url                      : https://guhaogao.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+title                    : "Tianci/张天赐"
+description              : "机器人爱好者"
+url                      : https://tianci8.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Koohoko/Koohoko.github.io"
+repository               : "tianci8/tianci8.github.io"
 google_scholar_stats_use_cdn : false
 read_more: "enable"
 
@@ -18,31 +18,31 @@ read_more: "enable"
 comments:
   provider               : "giscus"
   giscus:
-    repo_id              : "MDEwOlJlcG9zaXRvcnkzNDMyNDkzMw=="
+    repo_id              : "R_kgDOJX5F7A"
     category_name        : "Announcements"
-    category_id          : "DIC_kwDOAgvBxc4CRKa3"
+    category_id          : "DIC_kwDOJX5F7M4CV1rp"
     discussion_term      : "pathname"
     reactions_enabled    : "1"
     theme                : "light"
 
 # google analytics
-google_analytics_id      : G-89609PW7W1
+google_analytics_id      : #G-89609PW7W1
 
 # SEO Related
-google_site_verification : "7vdXBDyl5xAlO_Px1MOlthkOH9TgExFGWXfxLq9gon8"
-bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
-baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
+google_site_verification :  #7vdXBDyl5xAlO_Px1MOlthkOH9TgExFGWXfxLq9gon8
+bing_site_verification   :  0B933B0CD5A9CBCE6764943D902111F9 # get bing_site_verification from https://www.bing.com/webmasters/about
+baidu_site_verification  :  codeva-NHWbB2ZZVE # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # Site Author
 author:
-  name             : "Haogao Gu"
-  avatar           : "/images/android-chrome-512x512.webp"
-  bio              : "The University of Hong Kong"
-  location         : 
+  name             : "Tianci/张天赐"
+  avatar           : "/images/android-chrome-512x512.png"
+  bio              : "清华大学博后在读"
+  location         : "杭州 中国"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=sie-ZJkAAAAJ"
-  email            : "work@guhaogao.com"
+  googlescholar    : "https://scholar.google.com/citations?user=dxHuwzQAAAAJ"
+  email            : "tianci_zhang@tju.edu.cn"
   researchgate     : 
   uri              :
   bitbucket        :
@@ -51,26 +51,26 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Koohoko"
+  github           : "tianci8"
   google_plus      :
   keybase          :
   instagram        : # "koohoko"
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "haogao-gu"
+  linkedin         : #"haogao-gu"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0000-0002-7541-4262"
+  orcid            : #"https://orcid.org/0000-0002-7541-4262"
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "GuHaogao"
+  twitter          : #"GuHaogao"
   vine             :
   weibo            : # "alan412"
   xing             :
   youtube          :
   wikipedia        :
-  zhihu            : # "gu-hao-gao"
+  zhihu            :  "xiao-mao-mao-6"
 
 
 # Reading Files

@@ -3,14 +3,11 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "News"
-    url: "/#-news"
 
   - title: "Blog Posts"
     url: /year-archive/
 
-  - title: "Publications"
-    url: "/#-publications"
+
 
   - title: "Categories"
     url: /categories/

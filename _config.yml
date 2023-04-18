@@ -18,9 +18,11 @@ read_more: "enable"
 comments:
   provider               : "giscus"
   giscus:
-    repo_id              : "R_kgDOJX5F7A"
+    # repo_id              : "R_kgDOJX5F7A"
+    repo_id              : "R_kgDOJYG95Q"
     category_name        : "Announcements"
-    category_id          : "DIC_kwDOJX5F7M4CV1rp"
+    # category_id          : "DIC_kwDOJX5F7M4CV1rp"
+    category_id          : "DIC_kwDOJYG95c4CV20w"
     discussion_term      : "pathname"
     reactions_enabled    : "1"
     theme                : "light"
